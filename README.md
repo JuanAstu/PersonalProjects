@@ -1,6 +1,14 @@
 ## Juan Marcos Astudillo
 
+### Index
+
+This repository holds some of my personal projects that I've worked on since I started practising Data oriented journey. Currently they're binned by projects:
+
+1. [Data Visualization + Reporting](https://github.com/astudillojuanm/Personal_Projects/tree/main/Argentina's%20Exports)
+2. [Image to Text Application](https://github.com/astudillojuanm/Personal_Projects/tree/main/PDF%20List%20Image%20to%20Excel)
+
 ### Background
+
 Hello!
 
 My name is Juan Marcos Astudillo and welcome to my Project Portfolio. Allow me to introduce myself. I am 6 months away from finishing my degree as an Agriculture Engineer at Universidad de Buenos Aires. Currently I am working as a Purchasing Agent at a big agricultural company and two years ago, bored during the covid pandemic, I came across with my first Python Youtube video. From that moment on, I have been working on personal projects in order to improve my skills and to solve difficult challenges. 
