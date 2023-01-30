@@ -5,8 +5,9 @@
 This repository holds some of my personal projects that I've worked on since I started my journey in Python and Data Analytics/Science. Currently they're binned by projects:
 
 01. [Data Visualization + Reporting](https://github.com/astudillojuanm/Personal_Projects/tree/main/Argentina's%20Exports)
-02. [Image to Text Application](https://github.com/astudillojuanm/Personal_Projects/tree/main/PDF%20List%20Image%20to%20Excel)
-03. [Games built in Python](https://github.com/astudillojuanm/Personal_Projects/blob/main/Games/Snake%20Game.py)
+02. [Games built in Python](https://github.com/astudillojuanm/Personal_Projects/blob/main/Games/Snake%20Game.py)
+03. [Image to Text Application](https://github.com/astudillojuanm/Personal_Projects/tree/main/PDF%20List%20Image%20to%20Excel)
+
 
 ### Background
 
