@@ -9,8 +9,6 @@ This repository holds some of my personal projects that I've worked on since I s
 
 ### Background
 
-Hello!
-
 My name is Juan Marcos Astudillo and welcome to my Project Portfolio. Allow me to introduce myself. I am 6 months away from finishing my degree as an Agriculture Engineer at Universidad de Buenos Aires. Currently I am working as a Purchasing Agent at a big agricultural company and two years ago, bored during the covid pandemic, I came across with my first Python Youtube video. From that moment on, I have been working on personal projects in order to improve my skills and to solve difficult challenges. 
 
 For instance, I implemented SQL querys to explore and transform the information provided by a +1.000.000 sales operations database, and then took that to a PowerBI report to gain more insigths. Additionaly, I built a dashboard at my company in order to measure the efficiency of the Purchasing Department. During my days at work I find myself doing repetitive tasks, so I end up automating them with Python scripts so I can use that time in a more productive way.
