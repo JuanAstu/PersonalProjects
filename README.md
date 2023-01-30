@@ -18,3 +18,10 @@ For instance, I implemented SQL querys to explore and transform the information 
 It was an exciting journey from the learning perspective. However, some time ago I made the decision to take it to the next level and that's why I am now transitioning to applied Data Analytics / Science
 
 Feel free to browse through my projects and ask me anything you want! 
+
+### Contact Me
+
+| Contact method|               |
+| ------------- |:-------------:|
+| Professional Email  | juanastu94@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/astudillojuanm |
